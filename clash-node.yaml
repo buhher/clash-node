@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 dns:
-  enable: false
+enable: false
   ipv6: false
 rule-providers:
   reject:
